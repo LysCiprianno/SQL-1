@@ -2,6 +2,7 @@
 
 Vamos embarcar juntos nessa jornada para explorar o banco de dados da nossa renomada empresa "Momento" com consultas SQL que revelam todos os detalhes importantes. Pronto para uma aventura empresarial e filosófica? 📈📙
 
+```sql
 -- Criação das Tabelas
  
 -- Tabela de Funcionários
